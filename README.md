@@ -21,3 +21,4 @@ Features are classified into date, category, numerical, and text features.
 Check the missing rate, number of categories and outliers of each dimension feature.
 
 ### 3. Correlation analysis and feature selection
+![image](https://github.com/montpelllier/VU-DMT-A2/assets/145342600/014b2e93-aa79-45e3-b8ae-c5f46e3a1693)
