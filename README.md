@@ -4,7 +4,7 @@ This repository is for the assignment 2 of Data Mining Technique at Vrije Univer
 ## Competition
 The competition for this assignment is held on Kaggle platform. Click [here](https://www.kaggle.com/competitions/dmt-2024-2nd-assignment) for detail.
 Besides, the original competition can be found on Kaggle as well by clicking [this](https://www.kaggle.com/c/expedia-personalized-sort).
-### Dataset
+### Dataset 
 The dataset is available on [here](https://www.kaggle.com/competitions/dmt-2024-2nd-assignment/data).
 ### Metric
 The evaluation metric for this competition is Normalized Discounted Cumulative Gain.
